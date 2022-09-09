@@ -1,0 +1,14 @@
+{
+  "Title": "citizen_legacy",
+  "Type": "content",
+  "Org": "local",
+  "Ident": "citizen_legacy",
+  "Schema": 1,
+  "HasAssets": true,
+  "AssetsPath": "",
+  "ResourcePaths": null,
+  "HasCode": false,
+  "CodePath": null,
+  "RootNamespace": null,
+  "Metadata": {}
+}
